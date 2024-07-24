@@ -1,11 +1,27 @@
+# Algoritmos de asignación de cajeros
+
+Algo 1: Toma un n cajas y completa optimizando **nr cajas**
+Algo 2: Itera Algo 1, midiendo el tiempo muerto promedio y toma las que tenga <=30
+
+Cja 1 : 30
+Cja 2 : 15
+Cja 3 : 30
+Cja 4 : 0
+
+Dst 1: prom(Cja)
+
+DistObj = min{Dist}
+
 # Etapa 1
+
 ## Segmento 1 Cajas Seguidas
 
 - Tiempos muertos minimos
-- Algoritmo de [alfa]
+- Algo2
 
 ## Segmento 2 Entren los cajeros restantes
 
+- Algo1 
 
 # Etapa 2
 
@@ -26,9 +42,3 @@ Se muestra en una lista los cajeros que no se pudieron asignar en ninguna caja y
 
 
 
-
-
-
-
-Algo 1: Toma un n cajas y completa optimizando nr cajas
-Algo 2: Considera el tiempo muerto

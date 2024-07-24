@@ -23,12 +23,18 @@ DistObj = min{Dist}
 
 - Algo1 
 
+## Segmento 3
+
+- No asignados
+
 # Etapa 2
 
 ## Definir caja preferencial
 
-- Tiempo muerto debe ser 0
 - Debe ser de Segmento 1
+- Empiece desde las 7am
+- Mayor tiempo de atención
+- Rellenar huecos con personal de noAsignados
 
 ## Definir cajas rápidas
 
@@ -38,7 +44,3 @@ DistObj = min{Dist}
 # Etapa 3
 
 Se muestra en una lista los cajeros que no se pudieron asignar en ninguna caja y sus horarios ordenados por orden de llegada
-
-
-
-

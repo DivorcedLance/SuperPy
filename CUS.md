@@ -38,8 +38,14 @@ DistObj = min{Dist}
 
 ## Definir cajas rápidas
 
-- Se seleccionan 2 cajas de Segmento 1
-- Se selecciona 1 caja de Segmento 2
+- Se seleccionan las 2 cajas con mayor tiempo de atención de Segmento 1
+- Se seleccionan la caja con mayor tiempo de atención de Segmento 2
+
+Caja preferencial
+Caja rápida 1
+Caja rápida 2
+Caja rápida 3
+Caja regular n
 
 # Etapa 3
 

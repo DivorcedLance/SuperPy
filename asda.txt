@@ -1,0 +1,3 @@
+1. asignar con tiempo optimo
+2. asignar en base al numero de cajas
+3. dejar libre los sobrantes
